@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel buld src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NisaAzizi/lightness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NisaAzizi/lightness/issues"
+  },
+  "homepage": "https://github.com/NisaAzizi/lightness#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
